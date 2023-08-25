@@ -8,3 +8,9 @@
 
 
 Added H1-H6 headers
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Addded Image
