@@ -1,3 +1,5 @@
+Added H1-H6 headers
+
 # H1 header
 ## H2 header
 ### H3 header
@@ -7,10 +9,17 @@
 
 
 
-Added H1-H6 headers
 
 
+Addded Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Addded Image
+
+
+
+Added a code example
+
+``` javascript
+var myVar = "Hello, world!";
+```
